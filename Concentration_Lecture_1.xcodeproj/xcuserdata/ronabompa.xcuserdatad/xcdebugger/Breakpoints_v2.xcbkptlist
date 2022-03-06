@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E6BBC967-C5C8-4229-A170-8FCF3F02948D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60C85DED-17DB-4CCB-9A33-507D7FBA322B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Concentration_Lecture_1/ConcentrationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75F9F9A2-F852-47F6-91C0-33A15747E44D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Concentration_Lecture_1/ConcentrationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ConcentrationViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "75F9F9A2-F852-47F6-91C0-33A15747E44D - 2438742a6f144794"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Concentration_Lecture_1.ConcentrationViewController.game.getter : Concentration_Lecture_1.Concentration"
+                  moduleName = "Concentration_Lecture_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronabompa/Desktop/iOS/Projects/Concentration/concentration-project/Concentration_Lecture_1/ConcentrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "623">
+               </Location>
+               <Location
+                  uuid = "75F9F9A2-F852-47F6-91C0-33A15747E44D - dac1f7995fac5560"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Concentration_Lecture_1.ConcentrationViewController.game.setter : Concentration_Lecture_1.Concentration"
+                  moduleName = "Concentration_Lecture_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronabompa/Desktop/iOS/Projects/Concentration/concentration-project/Concentration_Lecture_1/ConcentrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "75F9F9A2-F852-47F6-91C0-33A15747E44D - f3b45cfe389fac51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Concentration_Lecture_1.ConcentrationViewController.game.modify : Concentration_Lecture_1.Concentration"
+                  moduleName = "Concentration_Lecture_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronabompa/Desktop/iOS/Projects/Concentration/concentration-project/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "75F9F9A2-F852-47F6-91C0-33A15747E44D - b9d631405e243f83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Concentration_Lecture_1.ConcentrationViewController.game.modify : Concentration_Lecture_1.Concentration with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Concentration_Lecture_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronabompa/Desktop/iOS/Projects/Concentration/concentration-project/Concentration_Lecture_1/ConcentrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "75F9F9A2-F852-47F6-91C0-33A15747E44D - ec8858f664fb2dd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Concentration_Lecture_1.ConcentrationViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Concentration_Lecture_1.ConcentrationViewController"
+                  moduleName = "Concentration_Lecture_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronabompa/Desktop/iOS/Projects/Concentration/concentration-project/Concentration_Lecture_1/ConcentrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "177">
+               </Location>
+               <Location
+                  uuid = "75F9F9A2-F852-47F6-91C0-33A15747E44D - dcfd4a9be26eee1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Concentration_Lecture_1.ConcentrationViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Concentration_Lecture_1.ConcentrationViewController&gt;"
+                  moduleName = "Concentration_Lecture_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronabompa/Desktop/iOS/Projects/Concentration/concentration-project/Concentration_Lecture_1/ConcentrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "134">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
